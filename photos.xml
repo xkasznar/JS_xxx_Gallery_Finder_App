@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Autor suboru: Katarina Zakova -->
+<!-- Posledna aktualizacia: oktober 2016 -->
+<photos>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_001.jpg</src>
+		<title>Planet Earth</title>
+		<description>Earth is the fifth-largest planet in the solar system.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_002.jpg</src>
+		<title>Nebula Orion</title>
+		<description>According to modern astronomers, the Orion Nebula is an enormous cloud of gas and dust, one of many in our Milky Way galaxy.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_003.jpg</src>
+		<title>Comet NEAT</title>
+		<description>Comet C/2002 V1 (NEAT) is a non-periodic comet that appeared in November 2002.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_004.jpg</src>
+		<title>Planet Earth Alternate Take</title>
+		<description>Earth is the fifth-largest planet in the solar system.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_005.jpg</src>
+		<title>Galaxy Andromeda</title>
+		<description>Although several dozen minor galaxies lie closer to our Milky Way, the Andromeda galaxy is the closest large spiral galaxy to ours.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_006.jpg</src>
+		<title>Nebula Helix</title>
+		<description>The Helix Nebula is a planetary nebula (PN) located in the constellation Aquarius.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_007.jpg</src>
+		<title>Planet Jupiter</title>
+		<description>Jupiter is the fifth planet from the Sun and the largest in the Solar System.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_008.jpg</src>
+		<title>Galaxy Sombrero</title>
+		<description>The Sombrero Galaxy is a spiral galaxy in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs (31.1 million light-years) from our galaxy, within the local supercluster.</description>
+	</photo>
+	<photo>
+		<src>images/ubuntu910wallpapers-large_009.jpg</src>
+		<title>Galaxy Whirlpool</title>
+		<description>The Whirlpool Galaxy is an interacting grand-design spiral galaxy with a Seyfert 2 active galactic nucleus.</description>
+	</photo>
+</photos>

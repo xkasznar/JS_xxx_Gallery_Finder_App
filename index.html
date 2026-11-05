@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "sk-sk">
+	<head>
+		<meta charset="utf-8">
+		<title>Galéria - Martin Kasznár</title>
+		<link href="mojecss.css" rel="stylesheet">
+		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<header>
+			<h1>Galéria</h1>
+		</header>
+		<article>
+			<h2>nic tu</h2>
+			<table id="vrstvaPod"></table>
+			<table id="vrstvaNad"></table>
+			<script>
+				reloadVrstvaPod();
+			</script>
+		</article>
+		<footer>
+			<input type="text" id="textInputFilter" placeholder="Zobrazovať iba tie fotky, v ktorých názve alebo popise sa bude nachádzať tento reťazec." onchange="reloadVrstvaPod();">
+		</footer>
+	</body>
+</html>

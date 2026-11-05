@@ -1,0 +1,55 @@
+body{
+	background-color: grey;
+}
+
+h1{
+	background-color: lightsteelblue;
+	padding: 8px;
+	margin-top:-8px;
+	margin-left:-8px;
+	margin-right:-8px;
+	text-align: right;
+}
+
+h2{
+	display: none;
+}
+
+article{
+	text-align: center;
+}
+
+footer{
+	background-color: gold;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 8px;
+	text-align: left;
+}
+
+#textInputFilter{
+	width: calc(100% - 10px);
+	font-size: 30px;
+}
+
+.sneakCls{
+	object-fit: cover;
+	width: 230px;
+	height: 230px;
+}
+#nadObrCls{
+	height: 540px;
+	width: auto;
+}
+
+#vrstvaNad{
+	background-color: gold;
+	z-index: 0;
+	position: absolute;
+	text-align: center;
+	font-size: 20px;
+	top: 20px;
+	left: 20px;
+}
